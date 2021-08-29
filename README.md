@@ -1,7 +1,7 @@
 # xubuntu_minimal
 Packages to install in a Xubuntu minimal install.
 
-```bash
+```console
 sudo apt install \
   engrampa \
   thunar-archive-plugin \
