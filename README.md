@@ -8,7 +8,8 @@ sudo apt install \
   engrampa \
   thunar-archive-plugin \
   git \
-  atril
+  atril \
+  xfce4-taskmanager
 ```
 ## Rclone Google Drive backup to local
 ```console
