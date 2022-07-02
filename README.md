@@ -9,7 +9,8 @@ sudo apt install \
   thunar-archive-plugin \
   git \
   atril \
-  xfce4-taskmanager
+  xfce4-taskmanager \
+  texlive-full
 ```
 ## Rclone Google Drive backup to local
 ```console
