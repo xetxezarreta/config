@@ -11,7 +11,8 @@ sudo apt install \
   atril \
   xfce4-taskmanager \
   texlive-full \
-  mousepad
+  mousepad \
+  blueman
 ```
 ## Rclone Google Drive backup to local
 ```console
