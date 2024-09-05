@@ -16,6 +16,7 @@ packages=(
     texlive-full
     mousepad
     blueman
+    language-selector-gnome
 )
 
 # Iterate through the list of packages
