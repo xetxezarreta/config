@@ -13,7 +13,6 @@ packages=(
     atril
     ristretto
     xfce4-taskmanager
-    texlive-full
     mousepad
     blueman
     language-selector-gnome
