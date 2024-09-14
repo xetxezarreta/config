@@ -17,6 +17,7 @@ packages=(
     mousepad
     blueman
     language-selector-gnome
+    lightdm-gtk-greeter-settings
 )
 
 # Iterate through the list of packages
