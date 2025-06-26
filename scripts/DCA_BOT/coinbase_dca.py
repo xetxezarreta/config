@@ -72,8 +72,7 @@ def main():
     api_secret = os.environ.get("COINBASE_API_SECRET")
 
     if not api_key or not api_secret:
-        print("Error: COINBASE_API_KEY and COINBASE_API_SECRET environment "
-              "variables are not set.")
+        print("Error: COINBASE_API_KEY and COINBASE_API_SECRET environment variables are not set.")
         print("Please set these variables with your Coinbase API key and secret.")
         return
 
